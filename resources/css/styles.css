@@ -1,0 +1,37 @@
+body {
+    background-color: #d9dddc;
+}
+
+.resume-header{
+    text-align:center
+}
+
+.nav-bar{
+    text-decoration: none;
+    color: black;
+
+}
+
+.nav-bar:hover{
+    color:#777b73;
+}
+
+table{
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.home-resume{
+    font-size: 40px;
+}
+
+.project-body {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    margin-top: 15%;
+    color: #26282a;
+}

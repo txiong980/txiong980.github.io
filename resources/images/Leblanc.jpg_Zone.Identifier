@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://us-east.storage.cloudconvert.com/tasks/ff5ae4a2-f4e4-4298-990d-0315643e2ffb/Leblanc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20260203%2Fva%2Fs3%2Faws4_request&X-Amz-Date=20260203T034232Z&X-Amz-Expires=86400&X-Amz-Signature=d70461b0a757a1fa073a9b0d53332d2ae421e29595e3769681996e6f30690fa1&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Leblanc.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject
